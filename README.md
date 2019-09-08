@@ -1,9 +1,9 @@
 # Apparment_Mangment
-## Final android project
+## Final android + firebase project
 
 ### users:
 
-- users:
+- regular users:
 ```
 a@a.com
 123456
